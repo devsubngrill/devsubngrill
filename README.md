@@ -1,7 +1,7 @@
 
 ---
 
-# 📜 American Sub N Grill LLC & Our Trademark: Sub N Grill
+# 📜 American Sub N Grill LLC & Sub N Grill
 
 Hello! 👋 Thank you for visiting the GitHub repository of **American Sub N Grill LLC** and our trademark **Sub N Grill**. Here you'll find information about our technological initiatives and projects related to our food service company.
 
